@@ -183,6 +183,7 @@ assign [class="Komodo"] "6:Dev"
 assign [class="Geany"] "6:Dev"
 assign [class="Firefox"] "2:WWW"
 assign [class="Atom"] "6:Dev"
+assign [class="Filezilla"] "9:Etc"
 
 #autostart
 #exec xrandr --output DVI-I-1 --mode 1920x1080 --pos 1920x0 --output VGA-0  --mode 1920x1080 --pos 0x0
